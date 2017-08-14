@@ -2,28 +2,8 @@
 Eloqua OAuth2 strategy for Passport
 
 ## Install
-```shell
-$ npm install passport-eloqua
-```
 
-## Sample provider
-```json
-{
-  "eloqua": {
-    "title": "Eloqua",
-    "strategy": "OAuth2",
-    "refresh": true,
-    "options": {
-      "authorizationURL": "https://login.eloqua.com/auth/oauth2/authorize",
-      "tokenURL": "https://login.eloqua.com/auth/oauth2/token",
-      "clientID": CLIENT_ID,
-      "clientSecret": CLIENT_SECRET,
-      "callbackURL": CALLBACK_URL,
-      "scope": "full"
-    }
-  }
-}
-```
+## Sample Config
 
 ## Usage
 

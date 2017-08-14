@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:bedrockdata/passport_eloqua.git"
+    "url": "git+ssh://git@github.com/bedrockdata/passport_eloqua.git"
   },
   "bugs": {
     "url": "https://github.com/bedrockdata/passport_eloqua/issues"
@@ -30,5 +30,14 @@
   },
   "engines": {
     "node": ">= 0.4.0"
-  }
+  },
+  "readme": "# passport_eloqua\nEloqua OAuth2 strategy for Passport\n\n## Install\n\n## Sample Config\n\n## Usage\n\n## Thanks\n\n  - [Jared Hanson](http://github.com/jaredhanson)\n\n## License\n\n[The MIT License](http://opensource.org/licenses/MIT)\n\nCopyright (c) 2017 [Bedrock Data Inc](http://github.com/bedrockdata)\n",
+  "readmeFilename": "README.md",
+  "gitHead": "7e4ff9133ce8c0ad618ad3477d20a7b34606384d",
+  "homepage": "https://github.com/bedrockdata/passport_eloqua#readme",
+  "_id": "passport-eloqua@0.0.1",
+  "scripts": {},
+  "_shasum": "c43664958c8f2686ef41ee33fe21eee2123ca757",
+  "_from": "../passport_eloqua",
+  "_resolved": "file:../passport_eloqua"
 }
