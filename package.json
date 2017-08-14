@@ -4,7 +4,6 @@
   "description": "Eloqua OAuth2 strategy for Passport.",
   "keywords": [
     "passport",
-    "slack",
     "auth",
     "authn",
     "authentication",
