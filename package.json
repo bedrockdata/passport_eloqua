@@ -1,12 +1,13 @@
 {
   "name": "passport-eloqua",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Eloqua OAuth2 strategy for Passport.",
   "keywords": [
     "passport",
-    "slack",
+    "eloqua",
     "auth",
-    "authn",
+    "oauth",
+    "oauth2",
     "authentication",
     "identity"
   ],
@@ -31,13 +32,12 @@
   "engines": {
     "node": ">= 0.4.0"
   },
-  "readme": "# passport_eloqua\nEloqua OAuth2 strategy for Passport\n\n## Install\n\n## Sample Config\n\n## Usage\n\n## Thanks\n\n  - [Jared Hanson](http://github.com/jaredhanson)\n\n## License\n\n[The MIT License](http://opensource.org/licenses/MIT)\n\nCopyright (c) 2017 [Bedrock Data Inc](http://github.com/bedrockdata)\n",
-  "readmeFilename": "README.md",
-  "gitHead": "7e4ff9133ce8c0ad618ad3477d20a7b34606384d",
   "homepage": "https://github.com/bedrockdata/passport_eloqua#readme",
-  "_id": "passport-eloqua@0.0.1",
   "scripts": {},
   "_shasum": "c43664958c8f2686ef41ee33fe21eee2123ca757",
   "_from": "../passport_eloqua",
-  "_resolved": "file:../passport_eloqua"
+  "_resolved": "file:../passport_eloqua",
+  "devDependencies": {},
+  "author": "Marina Novikova <marina@bedrockdata.com> (http://www.bedrockdata.com)",
+  "license": "MIT"
 }
