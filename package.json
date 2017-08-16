@@ -1,5 +1,5 @@
 {
-  "name": "passport-eloqua",
+  "name": "passport_eloqua",
   "version": "1.0.0",
   "description": "Eloqua OAuth2 strategy for Passport.",
   "keywords": [
