@@ -3,7 +3,7 @@ Eloqua OAuth2 strategy for Passport
 
 ## Install
 ```shell
-$ npm install passport-eloqua
+$ npm install passport_eloqua
 ```
 
 ## Usage
